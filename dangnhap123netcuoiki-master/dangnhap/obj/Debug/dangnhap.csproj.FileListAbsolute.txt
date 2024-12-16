@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\bin\Debug\dangnhap.exe.config
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\bin\Debug\dangnhap.exe
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\bin\Debug\dangnhap.pdb
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\obj\Debug\dangnhap.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\obj\Debug\dangnhap.Form1.resources
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\obj\Debug\dangnhap.Properties.Resources.resources
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\obj\Debug\dangnhap.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\obj\Debug\dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\obj\Debug\dangnhap.exe
+C:\Users\DELL\Downloads\dangnhap123netcuoiki-master\dangnhap\obj\Debug\dangnhap.pdb
