@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\bin\Debug\Quản lý bán hang.exe.config
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\bin\Debug\Quản lý bán hang.exe
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\bin\Debug\Quản lý bán hang.pdb
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\obj\Debug\Quản lý bán hang.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\obj\Debug\Quản_lý_bán_hang.Form1.resources
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\obj\Debug\Quản_lý_bán_hang.Properties.Resources.resources
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\obj\Debug\Quản lý bán hang.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\obj\Debug\Quản lý bán hang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\obj\Debug\Quản lý bán hang.exe
+C:\Users\DELL\Downloads\quanlyhoadonbanhangwebnhomnet-master\Quản lý bán hang\obj\Debug\Quản lý bán hang.pdb
