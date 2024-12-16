@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe.config
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.exe
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\bin\Debug\Quản lý nhân viên.pdb
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Form1.resources
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\obj\Debug\Quản_lý_nhân_viên.Properties.Resources.resources
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.exe
+C:\Users\DELL\Downloads\quanlynhanvienwebcuoiki-master\Quản lý nhân viên\obj\Debug\Quản lý nhân viên.pdb
